@@ -1,0 +1,19 @@
+{
+  "name": "q-cli",
+  "version": "1.0.0",
+  "description": "a cli tool for developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoperyy/q-cli.git"
+  },
+  "author": "https://github.com/hoperyy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoperyy/q-cli/issues"
+  },
+  "homepage": "https://github.com/hoperyy/q-cli#readme"
+}
