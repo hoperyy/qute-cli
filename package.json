@@ -1,5 +1,5 @@
 {
-  "name": "q-cli",
+  "name": "@antfoot/q-cli",
   "version": "1.0.0",
   "description": "a cli tool for developers",
   "main": "index.js",
