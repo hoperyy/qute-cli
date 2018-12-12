@@ -22,7 +22,8 @@
     "developers"
   ],
   "bin": {
-    "bio": "./bin/cmd.js"
+    "q": "./bin/cmd.js",
+    "qute": "./bin/cmd.js"
   },
   "engines": {
     "node": ">=8.9.1"
