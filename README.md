@@ -10,7 +10,7 @@ For now, this tool focus on fe developing.
 
 ## qute docsite-*
 
-demo: https://hoperyy.github.io/snippets/#/
+demo: https://hoperyy.github.io/knowledge-map
 
 +   orders
 
@@ -60,7 +60,15 @@ demo: https://hoperyy.github.io/snippets/#/
     +   `_sidebar.md` user defined sidebar. Only work in default mode, not `--multi` mode
     +   `_navbar.md` user defined navbar. Only work in default mode, not `--multi` mode
 
-# Changelog
+# CHANGELOG
+
++   1.0.1
+
+    update readme
+
++   1.0.0
+
+    first publish
 
 # LICENSE
 
