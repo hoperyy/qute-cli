@@ -1,6 +1,6 @@
 # What's this?
 
-It's a cute cli tool for developers.
+It's a cute cli tool for font-end developers.
 
 It can help front-end engineers start project without configuring webpack or others.
 
@@ -10,7 +10,7 @@ For now, this tool focus on fe developing.
 
 ## qute docsite-*
 
-demo: https://hoperyy.github.io/knowledge-map
+demo: https://hoperyy.github.io/snippets
 
 +   orders
 
