@@ -10,8 +10,6 @@ For now, this tool focus on fe developing.
 
 ## qute docsite-*
 
-demo: https://hoperyy.github.io/snippets
-
 +   orders
 
     +   `qute docsite-serve [targetPath] [-m, --multi] [-i, --show-index]`
