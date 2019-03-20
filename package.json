@@ -1,10 +1,6 @@
 {
   "name": "qute-cli",
-<<<<<<< HEAD
   "version": "1.0.2",
-=======
-  "version": "1.0.1",
->>>>>>> cb3b5f86caade94cddf6b4398924f84df7913965
   "description": "a cute cli tool for developers",
   "main": "index.js",
   "scripts": {
