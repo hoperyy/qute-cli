@@ -17,8 +17,6 @@ const cacheFolder = path.join(process.env.HOME, '.qute');
 const packageName = 'qute-core';
 const targetFolder = path.join(cacheFolder, 'qute-commands');
 
-// require('/Users/lyy/Downloads/code/github/qute-cli-core/bin/cmd')(commander);
-
 require('hot-update-package')({
     packageName,
     cacheFolder: path.join(cacheFolder, 'qute-cli-core-update-package-cache'),
