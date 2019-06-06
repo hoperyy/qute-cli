@@ -14,7 +14,7 @@ const commander = require('commander');
 
 const cacheFolder = path.join(process.env.HOME, '.qute');
 
-const packageName = 'qute-core';
+const packageName = 'qute-cli-core';
 const targetFolder = path.join(cacheFolder, 'qute-commands');
 
 // require('/Users/lyy/Downloads/code/github/qute-cli-core/bin/cmd')(commander);
