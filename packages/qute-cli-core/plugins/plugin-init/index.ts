@@ -14,7 +14,7 @@ export default class Init {
                 }
 
                 const action = new Action({
-                    scaffoldName: scaffoldName || 'qute-project-templates',
+                    scaffoldName: scaffoldName || 'qute-scaffold-templates',
                 });
                 await action.run();
                 await hooks.afterInit.flush();

@@ -167,7 +167,7 @@ export default class Core extends PluginAnything {
         if (this.oldProcessArgv.length === 2) {
             const mockAction = new PluginMockAction();
             const initAction = new PluginInitAction({
-                scaffoldName: 'qute-project-templates'
+                scaffoldName: 'qute-scaffold-templates'
             });
             const runAction = new PluginRunAction();
 
