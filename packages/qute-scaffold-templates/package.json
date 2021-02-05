@@ -1,5 +1,5 @@
 {
-  "name": "qute-project-templates",
+  "name": "qute-scaffold-templates",
   "version": "1.0.5",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hoperyy/qute-project-templates.git"
+    "url": "git+https://github.com/hoperyy/qute-scaffold-templates.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hoperyy/qute-project-templates/issues"
+    "url": "https://github.com/hoperyy/qute-scaffold-templates/issues"
   },
-  "homepage": "https://github.com/hoperyy/qute-project-templates#readme"
+  "homepage": "https://github.com/hoperyy/qute-scaffold-templates#readme"
 }
