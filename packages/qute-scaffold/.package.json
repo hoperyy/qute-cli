@@ -11,7 +11,7 @@
     "scripts": {
         "prepublishOnly": "cp ./package.json ./.package.json && cp ./package-lock.json ./.package-lock.json"
     },
-    "version": "3.0.10",
+    "version": "3.0.11",
     "dependencies": {
         "autoprefixer": "^9.1.5",
         "babel-core": "^6.26.3",
@@ -85,5 +85,5 @@
         "webpack-merge": "^4.1.1",
         "write-file-webpack-plugin": "^4.2.0"
     },
-    "gitHead": "f35b5794b9d241d897d21c08034f29ce7d3754b6"
+    "gitHead": "2aace555d3792dc0d93ca41184c5c1954ec90b0e"
 }

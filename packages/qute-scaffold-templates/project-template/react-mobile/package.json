@@ -1,21 +1,21 @@
 {
   "name": "demo",
   "version": "1.0.0",
-  "description": "bio project",
+  "description": "qute project",
   "scripts": {
-    "dev-daily": "bio run dev-daily",
-    "dev-pre": "bio run dev-pre",
-    "dev-prod": "bio run dev-prod",
-    "build-daily": "bio run build-daily -n",
-    "build-pre": "bio run build-pre -n",
-    "build-prod": "bio run build-prod -n"
+    "dev-daily": "qute run dev-daily",
+    "dev-pre": "qute run dev-pre",
+    "dev-prod": "qute run dev-prod",
+    "build-daily": "qute run build-daily -n",
+    "build-pre": "qute run build-pre -n",
+    "build-prod": "qute run build-prod -n"
   },
   "dependencies": {
-    "bio-cli": "^1.0.3",
+    "qute-cli": "latest",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-router": "^4.2.0",
     "react-router-dom": "^4.2.2"
   },
-  "bio-scaffold": "bio-scaffold"
+  "qute-scaffold": "qute-scaffold"
 }
