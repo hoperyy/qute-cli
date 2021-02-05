@@ -1,0 +1,15 @@
+{
+  "name": "weidian-tech-plugin",
+  "version": "1.0.0",
+  "description": "This is a demo of chrome extension which based on https://github.com/ruanyf/chrome-extension-demo.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "qute-scaffold": "qute-scaffold",
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "jquery": "^3.3.1"
+  }
+}

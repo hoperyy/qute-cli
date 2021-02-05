@@ -1,0 +1,1 @@
+throw Error('Please reinstall qute-cli for refactor version: npm i qute-cli@latest -g');

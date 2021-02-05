@@ -1,0 +1,25 @@
+{
+    "plugins": [
+        "transform-vue-jsx",
+        "transform-decorators-legacy",
+        "add-module-exports",
+        "transform-object-assign",
+        [
+            "transform-object-rest-spread",
+            {
+                "useBuiltIns": true
+            }
+        ]
+    ],
+    "presets": [
+        [
+            "env",
+            {
+                "modules": false,
+                "loose": true
+            }
+        ],
+        "es2015",
+        "stage-2"
+    ]
+}

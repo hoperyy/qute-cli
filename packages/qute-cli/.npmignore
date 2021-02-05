@@ -1,0 +1,7 @@
+.git/
+.idea/
+.DS_Store
+node_modules/*
+npm-debug.log
+*.swp
+*.ts

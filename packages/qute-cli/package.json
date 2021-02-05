@@ -1,0 +1,23 @@
+{
+  "name": "bio-cli",
+  "version": "3.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepublishOnly": "node scripts/check"
+  },
+  "bin": {
+    "qute": "./index.js",
+    "qutebeta": "./index-test.js"
+  },
+  "dependencies": {
+    "qute-cli-util": "3.0.0",
+    "check-module-latest": "^1.0.0",
+    "colors": "^1.4.0",
+    "detect-file-content": "^1.0.2",
+    "ensure-module-latest": "^1.0.10",
+    "fs-extra": "^2.1.1"
+  },
+  "author": "",
+  "license": "ISC"
+}

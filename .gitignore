@@ -1,0 +1,9 @@
+.git/
+.idea/
+.DS_Store
+node_modules/*
+npm-debug.log
+*.swp
+packages/**/**/node_modules/*
+packages/**/*.js
+

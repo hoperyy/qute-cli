@@ -1,0 +1,21 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "qute project",
+  "scripts": {
+    "dev-daily": "qute run dev-daily",
+    "dev-pre": "qute run dev-pre",
+    "dev-prod": "qute run dev-prod",
+    "build-daily": "qute run build-daily -n",
+    "build-pre": "qute run build-pre -n",
+    "build-prod": "qute run build-prod -n"
+  },
+  "dependencies": {
+    "qute-cli": "^1.0.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2"
+  },
+  "qute-scaffold": "qute-scaffold"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "bio demo",
+  "version": "1.0.0",
+  "description": "bio project",
+  "scripts": {
+    "dev-daily": "bio run dev-daily",
+    "dev-pre": "bio run dev-pre",
+    "dev-prod": "bio run dev-prod",
+    "build-daily": "bio run build-daily -n",
+    "build-pre": "bio run build-pre -n",
+    "build-prod": "bio run build-prod -n"
+  },
+  "devDependencies": {
+    "bio-cli": "^1.0.3"
+  },
+  "bio-scaffold": "bio-scaffold"
+}
