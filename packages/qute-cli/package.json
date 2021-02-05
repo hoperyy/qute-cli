@@ -1,6 +1,6 @@
 {
   "name": "bio-cli",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "detect-file-content": "^1.0.2",
     "ensure-module-latest": "^1.0.10",
     "fs-extra": "^2.1.1",
-    "qute-cli-util": "^3.0.1"
+    "qute-cli-util": "^3.0.2"
   },
   "author": "",
   "license": "ISC",
