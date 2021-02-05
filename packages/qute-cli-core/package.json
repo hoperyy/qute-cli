@@ -21,7 +21,7 @@
         "cli",
         "build"
     ],
-    "main":"./index.js",
+    "main": "./index.js",
     "repository": {
         "type": "git",
         "url": "https://github.com/hoperyy/qute-cli-core"
@@ -32,15 +32,14 @@
         "coverage": "cat ./coverage/lcov.info | coveralls",
         "prepublishOnly": "node prepublish.js"
     },
-    "version": "2.1.4",
+    "version": "3.0.1",
     "dependencies": {
         "anymatch": "^2.0.0",
         "babel-eslint": "^8.2.2",
-        "qute-cli-util": "^3.0.0",
         "chai": "^4.1.2",
         "chalk": "^2.3.2",
-        "chokidar": "^1.7.0",
         "child-process-close": "^0.1.1",
+        "chokidar": "^1.7.0",
         "co": "^4.6.0",
         "co-exec": "^1.1.0",
         "co-wait": "0.0.0",
@@ -79,14 +78,15 @@
         "procfs-stats": "^1.0.2",
         "progress-bar": "^0.1.1",
         "ps-node": "^0.1.6",
+        "qute-cli-util": "^3.0.1",
         "react-dev-utils": "^8.0.0",
         "readdir-enhanced": "^1.5.2",
         "recursive-readdir-sync": "^1.0.6",
         "registry-url": "^3.1.0",
         "relative": "^3.0.2",
         "semver": "^5.5.0",
-        "simple-array-diff": "1.1.0",
         "shelljs": "^0.8.1",
+        "simple-array-diff": "1.1.0",
         "socket.io": "^2.0.4",
         "sync-directory": "^1.0.9",
         "url-parse": "^1.1.9"
