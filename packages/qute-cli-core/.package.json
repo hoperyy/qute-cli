@@ -30,10 +30,10 @@
         "lint": "eslint bin/** core/** index.js",
         "test": "istanbul cover _mocha test/*",
         "coverage": "cat ./coverage/lcov.info | coveralls",
-        "prepublishOnly": "node scripts/prepublish.js"
+        "prepublishOnly": "node scripts/check && node scripts/prepublish.js"
     },
-    "version": "3.0.6",
-    "gitHead": "00ffa664485b06e3eb79a0379cd151ffeb14d8f0",
+    "version": "3.0.7",
+    "gitHead": "e04f34842309a0035d9906dbd418798436414c20",
     "optionalDependencies": {
         "anymatch": "^2.0.0",
         "babel-eslint": "^8.2.2",

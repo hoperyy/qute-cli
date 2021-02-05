@@ -88,7 +88,9 @@ export default class Util extends BaseUtil {
             });
 
             this.setInstallStatus('resolved');
-            require(modulePath).default();
+
+            const Core = require(modulePath).default;
+            new Core();
         }
     }
 }
