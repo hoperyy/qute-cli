@@ -10,6 +10,6 @@
   "qute-scaffold": "qute-scaffold",
   "dependencies": {
     "fs-extra": "^7.0.1",
-    "jquery": "^3.3.1"
+    "jquery": "^3.5.0"
   }
 }
