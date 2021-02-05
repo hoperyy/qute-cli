@@ -30,7 +30,7 @@
         "lint": "eslint bin/** core/** index.js",
         "test": "istanbul cover _mocha test/*",
         "coverage": "cat ./coverage/lcov.info | coveralls",
-        "prepublishOnly": "node prepublish.js"
+        "prepublishOnly": "node scripts/prepublish.js"
     },
     "version": "3.0.1",
     "dependencies": {
@@ -90,5 +90,6 @@
         "socket.io": "^2.0.4",
         "sync-directory": "^1.0.9",
         "url-parse": "^1.1.9"
-    }
+    },
+    "gitHead": "f0de88aaab53e9cf6969678060bb8d1466db1a68"
 }
