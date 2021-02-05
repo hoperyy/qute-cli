@@ -32,7 +32,7 @@
         "coverage": "cat ./coverage/lcov.info | coveralls",
         "prepublishOnly": "node scripts/check && node scripts/prepublish.js"
     },
-    "version": "3.0.9",
+    "version": "3.0.10",
     "dependencies": {
         "anymatch": "^2.0.0",
         "babel-eslint": "^8.2.2",
