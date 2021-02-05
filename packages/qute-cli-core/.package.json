@@ -32,8 +32,8 @@
         "coverage": "cat ./coverage/lcov.info | coveralls",
         "prepublishOnly": "node scripts/prepublish.js"
     },
-    "version": "3.0.5",
-    "gitHead": "e94c224c6255fea173f1a33c71401c7077c16716",
+    "version": "3.0.6",
+    "gitHead": "00ffa664485b06e3eb79a0379cd151ffeb14d8f0",
     "optionalDependencies": {
         "anymatch": "^2.0.0",
         "babel-eslint": "^8.2.2",
