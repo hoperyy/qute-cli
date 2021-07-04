@@ -23,7 +23,7 @@
   ],
   "bin": {
     "q": "./bin/cmd.js",
-    "qute": "./bin/cmd.js"
+    "betaq": "./bin/cmd-test.js"
   },
   "engines": {
     "node": ">=8.9.1"
