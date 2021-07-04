@@ -1,0 +1,24 @@
+{
+  "name": "qute-cli",
+  "version": "3.0.8",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepublishOnly": "node scripts/check"
+  },
+  "bin": {
+    "qute": "./index.js",
+    "qutebeta": "./index-test.js"
+  },
+  "dependencies": {
+    "check-module-latest": "^1.0.0",
+    "colors": "^1.4.0",
+    "detect-file-content": "^1.0.2",
+    "ensure-module-latest": "^1.0.10",
+    "fs-extra": "^2.1.1",
+    "qute-cli-util": "^3.0.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "gitHead": "f0de88aaab53e9cf6969678060bb8d1466db1a68"
+}

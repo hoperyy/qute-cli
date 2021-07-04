@@ -1,36 +1,27 @@
 {
-  "name": "qute-cli",
-  "version": "1.0.4",
-  "description": "a cute cli tool for developers",
-  "main": "index.js",
+  "name": "qute-packages",
+  "version": "1.0.0",
+  "description": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "link": "node scripts/link",
+    "bootstrap": "lerna bootstrap && npm run link",
+    "tsc": "tsc",
+    "tsw": "tsc -w",
+    "publish": "lerna publish"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hoperyy/q-cli.git"
+    "url": "git+https://github.com/hoperyy/qute-cli.git"
   },
   "author": "https://github.com/hoperyy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hoperyy/q-cli/issues"
+    "url": "https://github.com/hoperyy/qute-cli/issues"
   },
-  "homepage": "https://github.com/hoperyy/q-cli#readme",
-  "keywords": [
-    "cute",
-    "cli",
-    "developers"
-  ],
-  "bin": {
-    "q": "./bin/cmd.js",
-    "betaq": "./bin/cmd-test.js"
-  },
-  "engines": {
-    "node": ">=8.9.1"
-  },
-  "dependencies": {
-    "commander": "^2.19.0",
-    "fs-extra": "^7.0.1",
-    "hot-update-package": "^1.0.5"
+  "homepage": "https://github.com/hoperyy/qute-cli#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.22",
+    "lerna": "^3.22.1",
+    "typescript": "^4.1.3"
   }
 }

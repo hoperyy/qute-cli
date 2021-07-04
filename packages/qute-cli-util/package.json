@@ -1,0 +1,26 @@
+{
+  "name": "qute-cli-util",
+  "version": "3.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "extract-zip": "1.6.7",
+    "fs-extra": "^2.1.1",
+    "get-npm-package-version": "^1.0.7",
+    "get-port": "3.1.0",
+    "md5": "^2.3.0",
+    "ora": "5.1.0",
+    "readdir-enhanced": "6.0.4",
+    "recursive-readdir-sync": "^1.0.6",
+    "registry-url": "5.1.0",
+    "request": "2.87.0",
+    "simple-array-diff": "^1.1.0",
+    "url-parse": "1.4.7"
+  },
+  "gitHead": "f0de88aaab53e9cf6969678060bb8d1466db1a68"
+}

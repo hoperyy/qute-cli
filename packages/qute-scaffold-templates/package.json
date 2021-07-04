@@ -1,0 +1,20 @@
+{
+  "name": "qute-scaffold-templates",
+  "version": "3.0.12",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoperyy/qute-scaffold-templates.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoperyy/qute-scaffold-templates/issues"
+  },
+  "homepage": "https://github.com/hoperyy/qute-scaffold-templates#readme",
+  "gitHead": "f0de88aaab53e9cf6969678060bb8d1466db1a68"
+}
