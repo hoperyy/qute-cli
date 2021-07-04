@@ -20,7 +20,7 @@
     "registry-url": "5.1.0",
     "request": "2.87.0",
     "simple-array-diff": "^1.1.0",
-    "url-parse": "1.4.7"
+    "url-parse": "1.5.0"
   },
   "gitHead": "f0de88aaab53e9cf6969678060bb8d1466db1a68"
 }
