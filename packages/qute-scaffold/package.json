@@ -73,7 +73,7 @@
         "stylus-loader": "^3.0.2",
         "ts-loader": "3.5.0",
         "typescript": "^3.4.3",
-        "underscore": "1.8.3",
+        "underscore": "1.12.1",
         "url-loader": "0.5.9",
         "vue": "2.4.2",
         "vue-loader": "13.0.4",
