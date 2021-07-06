@@ -79,7 +79,7 @@
         "progress-bar": "^0.1.1",
         "ps-node": "^0.1.6",
         "qute-cli-util": "^3.0.2",
-        "react-dev-utils": "^8.0.0",
+        "react-dev-utils": "^11.0.4",
         "readdir-enhanced": "^1.5.2",
         "recursive-readdir-sync": "^1.0.6",
         "registry-url": "^3.1.0",
