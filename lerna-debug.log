@@ -1,0 +1,13 @@
+15 error Error: Command failed: git remote update
+15 error fatal: unable to access 'https://github.com/hoperyy/qute-cli.git/': LibreSSL SSL_read: SSL_ERROR_SYSCALL, errno 60
+15 error error: Could not fetch origin
+15 error
+15 error Fetching origin
+15 error
+15 error     at makeError (/Users/lyy/Desktop/code/github/qute-cli/node_modules/execa/index.js:174:9)
+15 error     at Function.module.exports.sync (/Users/lyy/Desktop/code/github/qute-cli/node_modules/execa/index.js:338:15)
+15 error     at Object.execSync (/Users/lyy/Desktop/code/github/qute-cli/node_modules/@lerna/child-process/index.js:26:16)
+15 error     at updateRemote (/Users/lyy/Desktop/code/github/qute-cli/node_modules/@lerna/version/lib/is-behind-upstream.js:26:16)
+15 error     at isBehindUpstream (/Users/lyy/Desktop/code/github/qute-cli/node_modules/@lerna/version/lib/is-behind-upstream.js:11:3)
+15 error     at VersionCommand.initialize (/Users/lyy/Desktop/code/github/qute-cli/node_modules/@lerna/version/index.js:154:9)
+15 error     at Promise.resolve.then (/Users/lyy/Desktop/code/github/qute-cli/node_modules/@lerna/command/index.js:272:24)

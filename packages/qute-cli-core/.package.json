@@ -32,8 +32,8 @@
         "coverage": "cat ./coverage/lcov.info | coveralls",
         "prepublishOnly": "node scripts/check && node scripts/prepublish.js"
     },
-    "version": "3.0.12",
-    "gitHead": "945866a0670a5547e35429f19ea31df91b87bdde",
+    "version": "3.0.14",
+    "gitHead": "f0de88aaab53e9cf6969678060bb8d1466db1a68",
     "optionalDependencies": {
         "anymatch": "^2.0.0",
         "babel-eslint": "^8.2.2",
@@ -79,7 +79,7 @@
         "procfs-stats": "^1.0.2",
         "progress-bar": "^0.1.1",
         "ps-node": "^0.1.6",
-        "qute-cli-util": "^3.0.2",
+        "qute-cli-util": "^3.0.14",
         "react-dev-utils": "^8.0.0",
         "readdir-enhanced": "^1.5.2",
         "recursive-readdir-sync": "^1.0.6",

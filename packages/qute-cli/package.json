@@ -1,6 +1,6 @@
 {
   "name": "qute-cli",
-  "version": "3.0.9",
+  "version": "3.0.14",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "detect-file-content": "^1.0.2",
     "ensure-module-latest": "^1.0.10",
     "fs-extra": "^2.1.1",
-    "qute-cli-util": "^3.0.2"
+    "qute-cli-util": "^3.0.14"
   },
   "author": "",
   "license": "ISC",
