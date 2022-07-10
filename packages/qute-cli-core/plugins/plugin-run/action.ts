@@ -125,9 +125,9 @@ const runScaffold = ({ currentEnv, cwd, workspaceFolder, debugPort, scaffoldName
 
         if (bigMemory) {
             Object.assign(options, {
-                execArgv: ['--max-old-space-size=4096']
+                execArgv: ['--max-old-space-size=8192']
             });
-            logUtil.logGreen('开启大内存模式: 4GB');
+            logUtil.logGreen('开启大内存模式: 8GB');
         }
 
         child = cp.fork('qute-entry.js', args, options);
