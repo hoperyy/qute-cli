@@ -21,7 +21,7 @@
   "homepage": "https://github.com/hoperyy/qute-cli#readme",
   "devDependencies": {
     "@types/node": "^14.14.22",
-    "lerna": "^3.22.1",
+    "lerna": "^6.4.1",
     "typescript": "^4.1.3"
   },
   "volta": {
