@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "extract-zip": "1.6.7",
+    "extract-zip": "1.7.0",
     "fs-extra": "^2.1.1",
     "get-npm-package-version": "^1.0.7",
     "get-port": "3.1.0",
